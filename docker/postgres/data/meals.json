@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "user_id": "p1ZTn83ytRY66SCHJh53OqgMbxg2",
+    "kcal": 482,
+    "name": "Zab",
+    "nutri_score": "B",
+    "image_uri": null
+  },
+  {
+    "id": 2,
+    "user_id": "p1ZTn83ytRY66SCHJh53OqgMbxg2",
+    "kcal": 880,
+    "name": "Balkan Burger",
+    "nutri_score": "E",
+    "image_uri": "https://i.ibb.co/pvxGYjz8/5dea43e6c882.jpg"
+  }
+]

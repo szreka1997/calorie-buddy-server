@@ -1,0 +1,17 @@
+[
+  {
+    "user_id": "p1ZTn83ytRY66SCHJh53OqgMbxg2",
+    "height": 181,
+    "starting_weight": 76.0,
+    "goal_weight": 60.0,
+    "activity_level": "Not Very Active",
+    "goal_calories": 1700,
+    "goal_carbs": 45,
+    "goal_fat": 30,
+    "goal_protein": 25,
+    "starting_date": "2026-03-10T19:23:22.518Z",
+    "goal_date": "2027-12-11T19:23:22.518Z",
+    "weekly_rate": 0.05454545,
+    "plan": "Loose"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "user_id": "p1ZTn83ytRY66SCHJh53OqgMbxg2",
+    "food_id": 1,
+    "meal_id": 1,
+    "quantity": "20"
+  },
+  {
+    "user_id": "p1ZTn83ytRY66SCHJh53OqgMbxg2",
+    "food_id": 2,
+    "meal_id": 1,
+    "quantity": "150"
+  },
+  {
+    "user_id": "p1ZTn83ytRY66SCHJh53OqgMbxg2",
+    "food_id": 3,
+    "meal_id": 1,
+    "quantity": "50"
+  },
+  {
+    "user_id": "p1ZTn83ytRY66SCHJh53OqgMbxg2",
+    "food_id": 4,
+    "meal_id": 1,
+    "quantity": "20"
+  },
+  {
+    "user_id": "p1ZTn83ytRY66SCHJh53OqgMbxg2",
+    "food_id": 5,
+    "meal_id": 2,
+    "quantity": "500"
+  },
+  {
+    "user_id": "p1ZTn83ytRY66SCHJh53OqgMbxg2",
+    "food_id": 6,
+    "meal_id": 2,
+    "quantity": "300"
+  },
+  {
+    "user_id": "p1ZTn83ytRY66SCHJh53OqgMbxg2",
+    "food_id": 7,
+    "meal_id": 2,
+    "quantity": "550"
+  }
+]

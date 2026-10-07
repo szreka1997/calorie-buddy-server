@@ -1,0 +1,14 @@
+[
+  {
+    "id": "p1ZTn83ytRY66SCHJh53OqgMbxg2",
+    "email_address": "test@test.hu",
+    "first_name": "Rebeka",
+    "last_name": "Tóth",
+    "username": "rtoth",
+    "sex": "Female",
+    "birthday": "1991-04-11T06:13:00Z",
+    "register_date": "2025-08-02T06:07:41.740Z",
+    "firebase_id_token": "dummy_id_token",
+    "firebase_refresh_token": "dummy_refresh_token"
+  }
+]
